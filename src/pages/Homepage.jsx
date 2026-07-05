@@ -4,7 +4,7 @@ import Herosection from "../component/Herosection";
 import Project from "../component/Project";
 import Services from "../component/Services";
 import Stat from "../component/Stat";
-import Testimonials from "../component/testimonials";
+import Testimonials from "../component/Testimonials";
 import { FloatButton } from "antd";
 
 const Homepage = () => {
